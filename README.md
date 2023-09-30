@@ -1,2 +1,6 @@
 # dShareWild
-Damage Share Wild Plugin - 데미지 공유 야생 플러그인
+made with kotlin, paper 1.20.2 api
+
+```kt
+game <start | end> - 게임을 시작 / 종료합니다.
+```
